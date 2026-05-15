@@ -12,7 +12,7 @@ The project uses a Convolutional Neural Network (CNN) for automated classificati
 This approach leverages deep learning for computer vision tasks, specifically image classification, and includes industry-relevant analogies (e.g., convolutional layers as camera scanning systems).
 
 ## Data Source
-The dataset used for this project is sourced from the following Google Drive folder:
+The dataset used for this project is sourced from:
 (https://github.com/puligandlakrishna-gif/Data-set-part_2_cnn_computer_vision.git)
 
 This folder contains synthetic images organized by defect classes (`normal`, `scratch`, `dent`, and `stain`), along with metadata files required for training the CNN model.
