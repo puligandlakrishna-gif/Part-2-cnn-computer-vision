@@ -13,7 +13,7 @@ This approach leverages deep learning for computer vision tasks, specifically im
 
 ## Data Source
 The dataset used for this project is sourced from the following Google Drive folder:
-[Manufacturing Defect Classification Dataset](https://drive.google.com/drive/folders/17xoSIAe-24-18iJiN3zKPqJl-RNDqIeW?usp=drive_link)
+[Manufacturing Defect Classification Dataset](https://github.com/puligandlakrishna-gif/Data-set-part_2_cnn_computer_vision.git)
 
 This folder contains synthetic images organized by defect classes (`normal`, `scratch`, `dent`, and `stain`), along with metadata files required for training the CNN model.
 
